@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Footer.qml</file>
+        <file>Header.qml</file>
+        <file>Delegate.qml</file>
+        <file>DescriptionPopup.qml</file>
+        <file>AddDataPopUp.qml</file>
+        <file>Keypad.qml</file>
+        <file>SubModuleKeyboard.qml</file>
+        <file>AddTextArea.qml</file>
+    </qresource>
+</RCC>
